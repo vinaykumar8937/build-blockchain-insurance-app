@@ -29,7 +29,7 @@ We find that Blockchain can be finicky when it comes to installing Node. We want
 * [Python](https://www.python.org/downloads/) - 2.7.x
 
 ## Steps
-
+#application running process 
 1. [Run the application](#1-run-the-application)
 
 ## 1. Run the application
